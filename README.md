@@ -45,21 +45,7 @@ http://127.0.0.1:8000
 
 ## 5 API testing
 
-- Swagger UI 👉 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)  
-- ReDoc 👉 [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+- Swagger UI  [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)  
+- ReDoc [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
 ---
-
-
-
----
-
-## 📂 Project Structure
-```
-.
-├── app
-│   ├── main.py      
-│   └── models.py      
-├── requirements.txt 
-└── README.md        
-```
